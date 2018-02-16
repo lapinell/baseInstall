@@ -1,0 +1,1 @@
+# BaseInstall, a boilerplate for web projects

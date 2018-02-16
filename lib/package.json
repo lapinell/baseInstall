@@ -1,0 +1,30 @@
+{
+    "name": "base-install",
+    "version": "1.0.0",
+    "description": "This is a boilerplate for web projects developed by Laura Pinell",
+    "main": "index.js",
+    "author": "Laura Pinell",
+    "license": "MIT",
+    "homepage": "https://github.com/lapinell",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lapinell/baseInstall/"
+    },
+    "bugs": {
+        "url": "https://github.com/lapinell/baseInstall/issues"
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0"
+    },
+    "devDependencies": {
+        "browserify": "^16.0.0",
+        "grunt": "^1.0.2",
+        "grunt-browserify": "^5.2.0",
+        "grunt-contrib-jshint": "^1.1.0",
+        "grunt-contrib-sass": "^1.0.0",
+        "grunt-contrib-watch": "^1.0.0",
+        "jshint": "^2.9.5",
+        "jshint-stylish": "^2.2.1",
+        "matchdep": "^2.0.0"
+    }
+}
